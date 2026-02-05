@@ -448,10 +448,15 @@ Follow [Conventional Commits](https://www.conventionalcommits.org/):
 **DO NOT** open public issues for security vulnerabilities.
 
 Instead:
-1. Email security@scrollverse.sovereignty (if available) or contact maintainers privately
+1. Contact the maintainers privately via GitHub Security Advisories or direct message
 2. Include detailed description of the vulnerability
 3. Include steps to reproduce
 4. Wait for response before public disclosure
+
+To submit via GitHub Security Advisories:
+- Navigate to the repository's Security tab
+- Click "Report a vulnerability"
+- Fill out the advisory form with details
 
 ### Security Best Practices
 
